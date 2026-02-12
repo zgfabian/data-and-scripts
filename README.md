@@ -1,5 +1,7 @@
 # datafiles
 
 
-a collections of R scripts and mixed data
+a collections of R scripts and mixed data:
+
+- korfa.csv: age-gender population data for HU (1980,2022)
 
